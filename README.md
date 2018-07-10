@@ -1,3 +1,4 @@
+CBTC "C" ADDRESS UPDATE, PLSEASE UPDATE TO THE NEW ADDRESS FORMAT...
 # Classic Bitcoin
 
 [![Build Status](https://travis-ci.org/classicbitcoins/cbitcoin.svg?branch=master)](https://travis-ci.org/classicbitcoins/cbitcoin)
@@ -5,6 +6,7 @@
 Classic Bitcoin (codename CBTC) is a fork of Bitcoin at block height 506095, on April 1st, 2018.
 
 * Website: https://classicbitcoin.info
+
 
 What is Bitcoin?
 
