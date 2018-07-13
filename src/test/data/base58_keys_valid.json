@@ -62,14 +62,6 @@
         }
     ],
     [
-        "cTpB4YiyKiBcPxnefsDpbnDxFDffjqJob8wGCEDXxgQ7zQoMXJdH",
-        "b9f4892c9e8282028fea1d2667c4dc5213564d41fc5783896a0d843fc15089f3",
-        {
-            "isCompressed": true, 
-            "isPrivkey": true, 
-            "isTestnet": true
-        }
-    ],
     [
         "cTpB4YiyKiBcPxnefsDpbnDxFDffjqJob8wGCEDXxgQ7zQoMXJdH",
         "b9f4892c9e8282028fea1d2667c4dc5213564d41fc5783896a0d843fc15089f3",
@@ -89,8 +81,8 @@
         }
     ],
     [
-        "3QjYXhTkvuj8qPaXHTTWb5wjXhdsLAAWVy",
-        "a914fcc5460dd6e2487c7d75b1963625da0e8f4c597587",
+        "XYZtBKYaUvXh7r6tFwofNhtskbfPGCwJJC",
+        "E8BECB87049C4358702ECA344E6FAF062A5AC02D",
         {
             "addrType": "script", 
             "isPrivkey": false, 
